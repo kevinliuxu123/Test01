@@ -7,6 +7,8 @@ public class test1 {
 	public void method02() {
 
 	}
-	
+	public void method03() {
+
+	}
 	
 }
